@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\PortControlDemo\PortControlDemo\bin\Debug\PortControlDemo.exe.config
+C:\Users\Lenovo\Desktop\PortControlDemo\PortControlDemo\bin\Debug\PortControlDemo.exe
+C:\Users\Lenovo\Desktop\PortControlDemo\PortControlDemo\bin\Debug\PortControlDemo.pdb
+C:\Users\Lenovo\Desktop\PortControlDemo\PortControlDemo\obj\Debug\PortControlDemo.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PortControlDemo\PortControlDemo\obj\Debug\PortControlDemo.FrmPortControl.resources
+C:\Users\Lenovo\Desktop\PortControlDemo\PortControlDemo\obj\Debug\PortControlDemo.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PortControlDemo\PortControlDemo\obj\Debug\PortControlDemo.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\PortControlDemo\PortControlDemo\obj\Debug\PortControlDemo.exe
+C:\Users\Lenovo\Desktop\PortControlDemo\PortControlDemo\obj\Debug\PortControlDemo.pdb
